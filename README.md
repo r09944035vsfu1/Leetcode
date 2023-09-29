@@ -13,6 +13,11 @@
 BFS + Priority Queue
 >pq 存的是從source node到某個node的cost
 
+### Floyd Warshall
+dp[i][j] is the shortest path from node i to node j
+```
+dp[i][j] = min(dp[i][j], dp[i][k] + dp[k][j])
+```
 ## DFS
 ### Backtracking
 通常可以用index或visited來避免重複拜訪
@@ -30,4 +35,4 @@ BFS + Priority Queue
 >idea: 先找高度，然後找左右邊界
 
 ## Union Find
-connected components相關問題
+connected components相關問題 

@@ -14,7 +14,9 @@ BFS + Priority Queue
 >pq 存的是從source node到某個node的cost
 
 ### Floyd Warshall
-dp[i][j] is the shortest path from node i to node j
+總共三層for loop  
+每次加入node k 就兩層for loop更新dp[i][j]  
+```dp[i][j]``` is the shortest path from node i to node j
 ```
 dp[i][j] = min(dp[i][j], dp[i][k] + dp[k][j])
 ```

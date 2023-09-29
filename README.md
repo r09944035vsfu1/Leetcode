@@ -23,11 +23,11 @@
 [1462.Course Schedule IV](./BFS/1462/)
 
 ### DFS
-[1306.Jump Game III](./DFS/1306-jump-game-iii/)\
+[37.Sudoku Solver](./DFS/37.Sudoku-Solver/)\
 [473.Matchsticks to Square](./DFS/473-matchsticks-to-square/)\
 [491.Non-decreasing Subsequences](./DFS/491.Non-decreasing-Subsequences/)\
 [698.Partition to K Equal Sum Subsets](./DFS/698.Partition-to-K-Equal-Sum-Subsets/)\
-[37.Sudoku Solver](./DFS/37.Sudoku-Solver/)\
+[1306.Jump Game III](./DFS/1306-jump-game-iii/)\
 [2597.The Number of Beautiful Subsets](./DFS/2597-the-number-of-beautiful-subsets/)
 
 ### Graph

@@ -2,6 +2,11 @@
 ## Prefix Sum
 
 ### Subarray equal to K
+```
+prefix[i:j] = prefix[j] - prefix[i-1] = S
+prefix[i-1] = prefix[j] - S
+```
+所以，我們只要one pass，每次看有多少個prefix[i-1] == prefix[j] - S\
 
 ## BFS
 Queue  

@@ -49,5 +49,6 @@ dp[i][j] = min(dp[i][j], dp[i][k] + dp[k][j])
 >idea: 先找高度，然後找左右邊界
 
 ## Union Find
-1. connected components相關問題    
-2. Minimum Spanning Tree (MST) : 用Kruskal (先排序edges，再依序從最小edge開始加入。判斷cycle用union find) 
+1. Undirected Graph cycle detection (E.g redundant connection problem)
+2. connected components相關問題    
+3. Minimum Spanning Tree (MST) : 用Kruskal (先排序edges，再依序從最小edge開始加入。判斷cycle用union find) 

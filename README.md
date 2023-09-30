@@ -19,7 +19,7 @@
 [2040.Kth-Smallest-Product-of-Two-Sorted-Arrays](./Binary_Search/2040/)\
 [2226.Maximum-Candies-Allocated-to-K-Children](./Binary_Search/2226/)
 
-### BFS (Including Toplogical Sort)
+### BFS (Including Topological Sort)
 [127.Word-Ladder](./BFS/127/)\
 [785.Is Graph Bipartite?](./BFS/785/)\
 [1162.As Far from Land as Possible](./BFS/1162/)\
@@ -57,6 +57,7 @@
 [2866.Beautiful Towers II](./Monotonic_Stack/2866_2865/)
 
 ### Union Find
+[684.Redundant Connection](./Union_Find/684/)\
 [1489.Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](./Union_Find/1489/)\
 [2867.Count Valid Paths in a Tree](./Union_Find/2867/)
 

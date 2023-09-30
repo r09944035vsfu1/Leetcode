@@ -21,6 +21,7 @@ Queue
 ### Dijkstra
 BFS + Priority Queue
 >pq 存的是從source node到某個node的cost
+>注意在每個iteration在 pq.top()完跟檢查neighbor的loop時，都要檢查visited (因為priority queue這邊的寫法不會是pop完，而是每次都pop一個而已。也就是說有可能會發生某個節點會被加入pq好幾次)
 
 ### Floyd Warshall
 總共三層for loop  

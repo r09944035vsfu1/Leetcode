@@ -2,6 +2,7 @@
 ### Prefix Sum
 [525.Contiguous Array](./Prefix_Sum/525/)\
 [930.Binary Subarrays With Sum](./Prefix_Sum/930/)\
+[1524.Number of Sub-arrays With Odd Sum](./Prefix_Sum/1524/)
 [1983.Widest Pair of Indices With Equal Range Sum](./Prefix_Sum/1983/)
 
 ### Binary Search

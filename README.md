@@ -34,6 +34,7 @@
 [2597.The Number of Beautiful Subsets](./DFS/2597-the-number-of-beautiful-subsets/)
 
 ### Graph
+[743.Network Delay Time](./Graph/743/)\
 [1334.Find the City With the Smallest Number of Neighbors at a Threshold Distance](./Graph/1334.Find-the-City-With-the-Smallest-Number-of-Neighbors-at-a-Threshold%20Distance/)
 
 ### Monotonic Stack

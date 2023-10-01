@@ -2,8 +2,14 @@
 ### Prefix Sum
 [525.Contiguous Array](./Prefix_Sum/525/)\
 [930.Binary Subarrays With Sum](./Prefix_Sum/930/)\
+[1442.Count Triplets That Can Form Two Arrays of Equal XOR](./Prefix_Sum/1442/)\
 [1524.Number of Sub-arrays With Odd Sum](./Prefix_Sum/1524/)\
-[1983.Widest Pair of Indices With Equal Range Sum](./Prefix_Sum/1983/)
+[1983.Widest Pair of Indices With Equal Range Sum](./Prefix_Sum/1983/)\
+[2875.Minimum Size Subarray in Infinite Array](./Prefix_Sum/2875/)
+
+### Greedy
+#### Three Pass
+[2874.Maximum Value of an Ordered Triplet II](./Greedy/2874/)
 
 ### Binary Search
 [81.Search in Rotated Sorted Array II](./Binary_Search/81/)\

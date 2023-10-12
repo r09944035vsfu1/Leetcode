@@ -1,5 +1,5 @@
 # Leetcode
-### Prefix Sum
+### Prefix Sum + Hash Map
 [525.Contiguous Array](./Prefix_Sum/525/)\
 [930.Binary Subarrays With Sum](./Prefix_Sum/930/)\
 [1442.Count Triplets That Can Form Two Arrays of Equal XOR](./Prefix_Sum/1442/)\

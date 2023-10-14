@@ -2,16 +2,26 @@
 ### Prefix Sum + Hash Map
 [525.Contiguous Array](./Prefix_Sum/525/)\
 [930.Binary Subarrays With Sum](./Prefix_Sum/930/)\
+[974.Subarray Sums Divisible by K](./Prefix_Sum/974/)\
+[1371.Find the Longest Substring Containing Vowels in Even Counts](./Prefix_Sum/1371/)\
 [1442.Count Triplets That Can Form Two Arrays of Equal XOR](./Prefix_Sum/1442/)\
 [1524.Number of Sub-arrays With Odd Sum](./Prefix_Sum/1524/)\
 [1542.Find Longest Awesome Substring](./Prefix_Sum/1542/)\
+[1590.Make Sum Divisible by P](./Prefix_Sum/1590/)\
 [1915.Number of Wonderful Substrings](./Prefix_Sum/1915/)\
 [1983.Widest Pair of Indices With Equal Range Sum](./Prefix_Sum/1983/)\
-[2875.Minimum Size Subarray in Infinite Array](./Prefix_Sum/2875/)
+[2025.Maximum Number of Ways to Partition an Array](./Prefix_Sum/2025/)
+[2488.Count Subarrays With Median K](./Prefix_Sum/2488/)\
+[2489.Number of Substrings With Fixed Ratio](./Prefix_Sum/2489/)\
+[2845.Count of Interesting Subarrays](./Prefix_Sum/2845/)\
+[2875.Minimum Size Subarray in Infinite Array](./Prefix_Sum/2875/)\
 
 ### Greedy
 #### Three Pass
-[2874.Maximum Value of an Ordered Triplet II](./Greedy/2874/)
+[1525.Number of Good Ways to Split a String](./Greedy/1525/)\
+[1653.Minimum Deletions to Make String Balanced](./Greedy/1653/)\
+[1664.Ways to Make a Fair Array](./Greedy/1664/)\
+[2874.Maximum Value of an Ordered Triplet II](./Greedy/2874/)\
 
 ### Binary Search
 [81.Search in Rotated Sorted Array II](./Binary_Search/81/)\

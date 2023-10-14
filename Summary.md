@@ -8,6 +8,15 @@ prefix[i-1] = prefix[j] - S
 ```
 所以，我們只要one pass，每次看有多少個prefix[i-1] == prefix[j] - S
 
+### Divisible or Modulo Related Problems
+大方向就是把數學式子寫出來，看要怎麼hash map查找\
+比如Divisible的問題用到的概念就是arr[j:i]如果要divisible，就代表```sum(arr[j:i]) % k == 0```，其實就代表```presum[i] % k - presum[j-1] % k = 0```，也就是```presum[i] % k == presum[j-1] % k```
+
+
+## Greedy
+### Three Pass
+目前感覺是同時用到prefix/suffix的概念都會算是Three Pass問題
+
 ## BFS
 Queue  
 起始點要注意一下    

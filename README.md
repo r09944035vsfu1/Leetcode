@@ -24,6 +24,7 @@
 [2874.Maximum Value of an Ordered Triplet II](./Greedy/2874/)\
 
 ### Binary Search
+[33.Search in Rotated Sorted Array](./Binary_Search/33/)\
 [81.Search in Rotated Sorted Array II](./Binary_Search/81/)\
 [215.Kth-Largest-Element-in-an-Array](./Binary_Search/215/)\
 [373.Find-K-Pairs-with-Smallest-Sums](./Binary_Search/373/)\

@@ -1,9 +1,20 @@
 # Leetcode
 ## Two Pointer
-1.控制left, right，從左右往中間移動  
+1.控制left, right，從左右往中間移動
+>移動left還是移動right  ，取決於題目定義，預期可以用constant time知道要移動left還right
 
-2.移動left還是移動right  ，取決於題目定義，預期可以用constant time知道要移動left還right
+2. 控制i, j 從同邊開始移動 (sliding window)
 
+## Sliding Window
+Template  
+```
+int j = 0;
+for (int i = 0; i < boundary condition; i++) {
+    while (j < boundary condition && something) {
+      j++;
+    }
+}
+```
 ## Prefix Sum
 
 ### Subarray equal to K

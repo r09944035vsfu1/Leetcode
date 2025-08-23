@@ -1,8 +1,10 @@
 # Leetcode
 ### Two Pointer
-
+[11. Container With Most Water](./TwoPointer/11/)\
+[167. Two Sum II - Input Array Is Sorted](./TwoPointer/167/)\
 ### Sliding Window
-
+[3. Longest Substring Without Repeating Characters](./SlidingWindow/3/)\
+[424. Longest Repeating Character Replacement](./SlidingWindow/424/)\
 ### Prefix Sum + Hash Map
 [525.Contiguous Array](./Prefix_Sum/525/)\
 [930.Binary Subarrays With Sum](./Prefix_Sum/930/)\

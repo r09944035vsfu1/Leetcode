@@ -1,4 +1,9 @@
 # Leetcode
+## Two Pointer
+1.控制left, right，從左右往中間移動  
+
+2.移動left還是移動right  ，取決於題目定義，預期可以用constant time知道要移動left還right
+
 ## Prefix Sum
 
 ### Subarray equal to K

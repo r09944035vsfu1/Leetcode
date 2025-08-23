@@ -15,6 +15,8 @@ for (int i = 0; i < boundary condition; i++) {
     }
 }
 ```
+通常會需要constant time的處理來維護這個sliding window的一些資訊  
+
 ## Prefix Sum
 
 ### Subarray equal to K

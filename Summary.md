@@ -62,6 +62,10 @@ BFS + Priority Queue
 ```
 dp[i][j] = min(dp[i][j], dp[i][k] + dp[k][j])
 ```
+### Coloring
+經典題785.Is Graph Bipartite?
+對每個點做BFS，開始0,1塗色，如果違反塗色規則，代表存在奇數環，不是Bipartite
+
 ## DFS
 ### Backtracking
 通常可以用index或visited來避免重複拜訪

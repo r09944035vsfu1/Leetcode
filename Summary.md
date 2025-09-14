@@ -40,6 +40,11 @@ Queue
 起始點要注意一下    
 每層loop有沒有一定要pop完，要看題目(比如有些題目是多節點開始BFS看shortest path到某些方格，那這樣就要pop完才能確保算cost/step時能正確)  
 
+>另外也有multi-source BFS的題目，比如最經典的是grid分成1跟0，問0到最近的1距離，就可以從1開始用multi-source BFS，接著就變成minimum distance(equal weight)問題
+
+### Minimum Dist (Equal Weight)
+如果是minimum distance，並且都是equal weight，BFS是一種求法
+
 ### Topological Sort
 預先算好每個node的indegree，從indegree=0的nodes開始剝洋蔥
 
@@ -69,6 +74,9 @@ dp[i][j] = min(dp[i][j], dp[i][k] + dp[k][j])
 >跟2.很類似，都是猜答案，然後count有多少個符合。正確答案會發生在cout==K的時候  
 >在算count >, =, < k的時候，等號"="到底是放在大於還是小於，可以單獨先想是等號時是移動left還是right  
 >或者就直接分成>, =, <三種情況也可以，思考會比較清楚
+
+注意: Maximum 跟 Minimum ，要注意left, right移動的方向  
+
 ## Monotonic Stack
 1. Next/Prev Greater/Smaller element
 2. subarray minimum/maximum (把元素當作最小值，找區間的左邊界/右邊界)
